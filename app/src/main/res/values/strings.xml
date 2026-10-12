@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hatırla</string>
+    <string name="new_note">Yeni not</string>
+    <string name="edit_note">Notu düzenle</string>
+    <string name="hint">Ne yapman gerekiyor?</string>
+    <string name="save">Kaydet</string>
+    <string name="delete">Sil</string>
+    <string name="done">Tamam</string>
+    <string name="empty">Henüz not yok.\n+ düğmesine basıp ilk notunu ekle.\nNotların kilit ekranında bildirim olarak görünür.</string>
+    <string name="widget_empty">Not yok</string>
+    <string name="channel_name">Notlar</string>
+    <string name="channel_description">Notların kilit ekranında ve bildirim panelinde görünür</string>
+    <string name="tile_label">+ Not</string>
+    <string name="widget_description">Notların ana ekranda</string>
+</resources>
